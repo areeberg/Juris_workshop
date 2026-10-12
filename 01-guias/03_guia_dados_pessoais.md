@@ -33,6 +33,10 @@ Exemplo:
 > Antes: "A Sra. Marta Souza, CPF 000.000.000-00, pagou a fatura da Casa Bela em 12/03/2026 e teve o nome negativado em 09/05."
 > Depois: "A CLIENTE pagou a fatura da LOJA em 12/03/2026 e teve o nome negativado em 09/05."
 
+### Pseudonimizar com um modelo local
+
+Localizar e substituir funciona bem com poucos nomes. Num documento cheio de dados, um modelo de IA que roda no seu computador, sem internet, faz a primeira passada: nada sai da máquina, então não vale a regra de que pedir à IA já é entregar o documento. Exemplo, prompt e resultado de referência em `06-pseudonimizacao/`. Modelo pequeno erra: confira a saída contra o original antes de usar fora do seu computador.
+
 ## 4. ZDR: retenção zero de dados
 
 **O que é.** Acordo contratual em que o fornecedor não guarda as suas entradas e saídas depois de processar, salvo exigência legal ou combate a abuso.

@@ -30,6 +30,8 @@ Este kit acompanha a palestra "IA no trabalho jurídico: como fazer um uso efeti
 | Três passos antes de protocolar | `03-prompts/09_checklist_pre_protocolo.md` |
 | Local não é local; treino desligado | Guia de sobrevivência, regra 1; `01-guias/03_guia_dados_pessoais.md`, seção 5 |
 | Dado pessoal, pseudonimização, ZDR | `01-guias/03_guia_dados_pessoais.md` |
+| Demonstração: pseudonimizar com modelo local, offline | `06-pseudonimizacao/` |
+| Os slides da palestra | `apresentacao/IA_no_trabalho_juridico.pdf` |
 | Pode ou não pode; matriz de risco | `05-conferencia/pode_ou_nao_pode.md`, `matriz_de_risco.md` |
 | Recomendação OAB 001/2024; cláusula de IA; registro de uso | Guia de sobrevivência, regra 6; `05-conferencia/clausula_de_ia.md`, `registro_de_uso.csv` |
 | Conectar a IA a fontes públicas (depois do básico) | `01-guias/02_guia_conexao_fontes_publicas.md` |
